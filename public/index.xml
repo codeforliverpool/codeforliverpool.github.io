@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code For Liverpool</title>
-    <link>https://codeforliverpool.github.io/</link>
+    <link>http://codeforliverpool.org/</link>
     <description>Recent content on Code For Liverpool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <atom:link href="https://codeforliverpool.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://codeforliverpool.org/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
